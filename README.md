@@ -1,2 +1,1 @@
 # UAS-DAW
-UAS-DAW/img/
